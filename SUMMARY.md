@@ -1,0 +1,18 @@
+# Table of contents
+
+* [📌 Truffle Finance Overview](README.md)
+* [⚙ How Does Auto-Staking Work?](how-does-auto-staking-work.md)
+* [🛡 Truffle Insurance Fund (TIF)](truffle-insurance-fund-tif.md)
+* [🏦 Truffle Treasury](truffle-treasury.md)
+* [🔥 Truffle Flame](truffle-flame.md)
+* [⚖ Truffle Auto-Liquidity Engine (SALE)](truffle-auto-liquidity-engine-sale.md)
+* [📊 Fixed APY](fixed-apy.md)
+* [💸 How the APY is Calculated](how-the-apy-is-calculated.md)
+* [💲 Longterm Interest Cycle (LIC)](longterm-interest-cycle-lic.md)
+* [🪙 TRUFFLE Token](truffle-token/README.md)
+  * [📎 Truffle Buy and Sell Fees](truffle-token/truffle-buy-and-sell-fees.md)
+  * [🖇 Trading Fees Explained](truffle-token/trading-fees-explained.md)
+* [🛣 Roadmap](roadmap.md)
+* [🚀 $Truffle Tokenomics](usdtruffle-tokenomics.md)
+* [👨🏫 The Beauty of Mathematics](the-beauty-of-mathematics.md)
+* [🎯 The Truffle Finance Team](the-truffle-finance-team.md)
