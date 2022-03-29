@@ -14,5 +14,5 @@
   * [🖇 Trading Fees Explained](truffle-token/trading-fees-explained.md)
 * [🛣 Roadmap](roadmap.md)
 * [🚀 $Truffle Tokenomics](usdtruffle-tokenomics.md)
-* [👨🏫 👨🏫 The Beauty of Mathematics](the-beauty-of-mathematics.md)
+* [👨🏫 The Beauty of Mathematics](the-beauty-of-mathematics.md)
 * [🎯 The Truffle Finance Team](the-truffle-finance-team.md)

@@ -23,7 +23,7 @@ Note that rate r and time t should be in the same time units such as months or y
 
 ### Simple Interest Formulas and Calculations:
 
-A = the Final Investment Value, using the simple interest formula: A = P(1 + rt) where P is the Principal amount of money to be invested at an Interest Rate R% per period for t Number of Time Periods.  Where r is in decimal form; r=R/100; r and t are in the same units of time.
+A = the Final Investment Value, using the simple interest formula: A = P(1 + rt) where P is the Principal amount of money to be invested at an Interest Rate R% per period for t Number of Time Periods. Where r is in decimal form; r=R/100; r and t are in the same units of time.
 
 The accrued amount of an investment is the original principal P plus the accumulated simple interest, I = Prt, therefore we have:
 
@@ -42,6 +42,6 @@ A = P + I = P + (Prt), and finally **A = P(1 + rt)**
 
 ### <mark style="color:green;">Example:</mark>
 
-**P = (Principle + Interest) = **<mark style="color:green;">**$1,000**</mark>
+**P = (Principle + Interest) = $1,000**
 
-**A = (Total Accrued Amount) = **<mark style="color:green;">**$325,000**</mark>
+**A = (Total Accrued Amount) = $3,250,000.00**
