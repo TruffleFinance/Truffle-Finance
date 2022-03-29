@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/a.PNG
-coverY: 14.195544554455445
+coverY: 2.8391089108910883
 ---
 
 # 📌 Truffle Finance Overview
