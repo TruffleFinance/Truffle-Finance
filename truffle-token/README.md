@@ -1,7 +1,7 @@
 ---
 description: $TRUFFLE Token
 cover: ../.gitbook/assets/çç.PNG
-coverY: 21.830445544554458
+coverY: 7.746287128712874
 ---
 
 # 🪙 TRUFFLE Token
