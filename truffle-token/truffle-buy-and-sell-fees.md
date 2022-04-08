@@ -10,5 +10,5 @@ Other protocols utilize selling bonds to support the same functions as Truffle f
 
 Selling bonds also costs token holders. It reduces the amount of APY that can be offered and eliminates the ability to offer a stable APY.
 
-The amount of the fees (<mark style="color:green;">**14% for buys**</mark> and <mark style="color:red;">**16% for sells**</mark>) allows Truffle to provide $TRUFFLE holders with the stable high yield of <mark style="color:green;">**980,990,50%**</mark> annually.
+The amount of the fees (<mark style="color:green;">**13% for buys**</mark> and <mark style="color:red;">**17% for sells**</mark>) allows Truffle to provide $TRUFFLE holders with the stable high yield of **$980.990,50%** annually.
 

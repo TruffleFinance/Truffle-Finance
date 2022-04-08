@@ -1,19 +1,23 @@
 ---
-description: Truffle Insurance Fund
+description: Truffle Finance's Risk Insurance Fund (RIF)
 ---
 
-# 🛡 Truffle Insurance Fund (TIF)
+# 🛡 Risk Insurance Fund (RIF)
 
-**TIF** is the acronym for the Truffle Insurance Fund which is a separate wallet in Truffle's **SAP** system. The TIF uses an algorithm that backs the Rebase Rewards and is supported by a portion of the buy and sell trading fees that accrue in the TIF wallet. &#x20;
 
-In simple terms, the staking rewards (rebase rewards) which are distributed every 8 minutes at a rate of **0.0095%** are backed by the TIF parameter, thus ensuring a high and stable interest rate to $TRUFFLE token holders.&#x20;
 
-5% of all trading fees are stored in the Truffle Insurance Fund which helps sustain and back the staking rewards provided by the positive rebase.
+**RIF** is the acronym for the Risk Insurance Fund which is a separate wallet in **WFAP** system. The RIF uses an algorithm that backs the Rebase Rewards and is supported by a portion of the buy and sell trading fees that accrue in the RIF wallet. &#x20;
 
-### TIF Keeps holders safe by:
+In simple terms, the staking rewards (rebase rewards) which are distributed every 3 seconds at a rate of **0.0000858%** are backed by the RIF parameter, thus ensuring a high and stable interest rate to $TRUFFLE token holders.&#x20;
+
+6% of all trading fees are stored in the Risk Insurance Fund which helps sustain and back the staking rewards provided by the positive rebase.
+
+Multi Chain Farming & BNB Launchpad Earning to support the high reward
+
+### RIF Keeps holders safe by:
 
 * Avoiding flash crash through price stability
-* Achieving longterm sustainability and future growth of the Truffle Finance
+* Achieving longterm sustainability and future growth of the Truffle Finance Protocol
 * Greatly reducing downside risk
 
-![](.gitbook/assets/2.PNG)
+![](.gitbook/assets/RIF.PNG)

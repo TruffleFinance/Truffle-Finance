@@ -4,18 +4,20 @@ description: LIC
 
 # 💲 Longterm Interest Cycle (LIC)
 
-In order to maintain sustainability and future growth, we have introduced a Longterm Interest Cycle (LIC) component which will award $TRUFFLE token holders with continued compound interest in perpetuity.
+In order to maintain sustainability and future growth, we have introduced a Longterm Interest Mechanism (LIM) component which will award $TRUFFLE token holders with continued compound interest in perpetuity.
 
-Each Interest Cycle is 8 minutes in length and is referred to as an **EPOCH**.&#x20;
+Each Interest Cycle is seconds in length and is referred to as an **EPOCH**.&#x20;
 
-There are 35,040 EPOCH's in 1 year.
+There are 10,512,000 EPOCH's in 1 year.
 
 
 
-**EPOCH 1 - 35,040:** 0.02355% every EPOCH **(First 12 Months)**
+**EPOCH 1 - 10,512,000:** 0.0000858% every EPOCH **(First 12 Months)**
 
-**EPOCH 35,041 - 52,560:** 0.00211% every EPOCH **(Next 6 months)**
+**EPOCH 10,512,001- 21,024,000:** 0.00000858% every EPOCH **(Next 6 months)**
 
-**EPOCH 52,561 - 245,280:** 0.00014% every EPOCH **(Next 6.5 Years)**
+**EPOCH 21,024,001 - 31,536,000:** 0.000000858% every EPOCH **(Next 6.5 Years)**
 
-**EPOCH 245,281:** 0.00002% every EPOCH **(In Perpetuity until max supply is reached)**
+**And so on until max supply is reached after 12 years.**
+
+Initial supply is 10,000,000 and max supply is 100,000,000,000

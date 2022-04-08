@@ -4,44 +4,68 @@ description: Calculating APY
 
 # 💸 How the APY is Calculated
 
-### Simple Interest Equation (Principal + Interest)
+### Compound Interest Equation
 
-A = P(1 + rt)
+$$
+A = P(1 + r)^n
+$$
 
 Where:
 
 * A = Total Accrued Amount (principal + interest)
 * P = Principal Amount
-* I = Interest Amount
-* r = Rate of Interest per year in decimal; r = R/100
-* R = Rate of Interest per year as a percent; R = r \* 100
-* t = Time Period involved in months or years
+* r = Rate of Interest for each epoch (3 seconds)
+* n = # of epochs
 
-From the base formula, A = P(1 + rt) derived from A = P + I and since I = Prt then A = P + I becomes A = P + Prt which can be rewritten as A = P(1 + rt)
+We have:\
+r = 0.000000858%\
+3 second = 1 epoch\
+1 year = 10512000 epochs
 
-Note that rate r and time t should be in the same time units such as months or years. Time conversions that are based on day count of 365 days/year have 30.4167 days/month and 91.2501 days/quarter. 360 days/year have 30 days/month and 90 days/quarter.
+So:
 
-### Simple Interest Formulas and Calculations:
+$$
+A = P(1 + 0.000000858)^{10512000}= P(1+8259.92)
+$$
 
-A = the Final Investment Value, using the simple interest formula: A = P(1 + rt) where P is the Principal amount of money to be invested at an Interest Rate R% per period for t Number of Time Periods. Where r is in decimal form; r=R/100; r and t are in the same units of time.
+So it means,
 
-The accrued amount of an investment is the original principal P plus the accumulated simple interest, I = Prt, therefore we have:
+$$
+APY =(A/P -1)*100 = 825992.73 %
+$$
 
-A = P + I = P + (Prt), and finally **A = P(1 + rt)**
+Same goes to other time periods.
 
-* Calculate Total Amount Accrued (Principal + Interest), solve for A
-  * A = P(1 + rt)
-* Calculate Principal Amount, solve for P
-  * P = A / (1 + rt)
-* Calculate rate of interest in decimal, solve for r
-  * r = (1/t)(A/P - 1)
-* Calculate rate of interest in percent
-  * R = r \* 100
-* Calculate time, solve for t
-  * t = (1/r)(A/P - 1)
+$$
+A_{month}=P(1+0.000000858)^{20*60*24*30}=P(1+1.0986)
+$$
 
-### <mark style="color:green;">Example:</mark>
+$$
+A_{week}=P(1+0.000000858)^{20*60*24*7}=P(1+0.1888)
+$$
 
-**P = (Principle + Interest) = $1,000**
+$$
+A_{day}=P(1+0.000000858)^{20*60*24}=P(1+0.025)
+$$
 
-**A = (Total Accrued Amount) = $3,250,000.00**
+$$
+A_{hour}=P(1+0.000000858)^{20*60}=P(1+0.001)
+$$
+
+$$
+A_{minute}=P(1+0.000000858)^{20}=P(1+0.0000171)
+$$
+
+0.0000858% per block (3 seconds)\
+0.00171% per minute \
+0.1% per hour \
+2.5% per day \
+18.88% per week \
+109.86% per month \
+<mark style="color:green;">980,990,50%</mark> <mark style="color:green;">per year (APY)</mark>
+
+### <mark style="color:green;">**Example:**</mark>
+
+**P = **<mark style="color:green;">**$1,000**</mark>
+
+**A = (After 1 year) = **<mark style="color:blue;">****</mark>** **<mark style="color:green;">**$9,809,905.00**</mark>
