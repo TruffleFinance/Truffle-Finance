@@ -18,4 +18,7 @@
 * [🛣 Roadmap](roadmap.md)
 * [🚀 $Truffle Tokenomics](usdtruffle-tokenomics.md)
 * [👨🏫 The Beauty of Mathematics](the-beauty-of-mathematics.md)
-* [🎯 The Truffle Finance Team](the-truffle-finance-team.md)
+
+## TECHNICAL & ECOSYSTEM
+
+* [🌅 TRUFFLE NFT Collection](technical-and-ecosystem/truffle-nft-collection.md)
