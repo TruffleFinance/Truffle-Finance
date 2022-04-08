@@ -30,18 +30,12 @@
 * [🌉 Truffle Cross-Chain Bridge](technical-and-ecosystem/truffle-cross-chain-bridge.md)
 * [⚓ Truffle Bond](technical-and-ecosystem/truffle-bond.md)
 * [🏛 Truffle DAO Governance](technical-and-ecosystem/truffle-dao-governance.md)
+* [🎮 The Truffle Finance Team](technical-and-ecosystem/the-truffle-finance-team.md)
 * [❓ FAQs](technical-and-ecosystem/faqs.md)
-
-***
-
-* [🎮 The Truffle Finance Team](the-truffle-finance-team.md)
-
-## SOCIAL MEDIA
-
-* [Page 2](social-media/page-2.md)
 
 ***
 
 * [🥰 Telegram Group](https://t.me/truffleprotocol)
 * [😜 Twitter Official](https://twitter.com/TruffleFinance)
 * [😎 Discord Group](https://discord.com/invite/NWRR6s6rmU)
+* [😆 Site Official](https://www.truffle.finance)
