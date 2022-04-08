@@ -6,7 +6,7 @@ Seeing the size of this APY, one may wonder — how is such APY attainable?
 
 Truffle Finance leverages a number of revenue-generating mechanisms:
 
-### **1. The protocol will use Defi 3.0 Multichain Farming to increase the Risk Insurrance Fund exponentially at a rate of \~100% a year or more to better support $TRUFFLLE price floor.**
+### **1. The protocol will use Defi 3.0 Multichain Farming to increase the Risk Insurrance Fund exponentially at a rate of \~100% a year or more to better support $TRUFFLE price floor.**
 
 Unlike Titano which has a static LIT fund that does not yield profit, Truffle Finance uses the Risk Insurrance Fund and the treasury fund to farm stable tokens through multichain farming. The Risk Insurrance funds are bridged to other EVM-compatible blockchains - like Avalanche, Fantom, Solana, Metis, Polygon, etc. to farm at the highest APY farms and the profit is then brought back to TRUFFLE and returned to the RIF.&#x20;
 
