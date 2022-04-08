@@ -31,4 +31,17 @@
 * [⚓ WSF Bond](technical-and-ecosystem/wsf-bond.md)
 * [🏛 TRUFFLE DAO Governance](technical-and-ecosystem/truffle-dao-governance.md)
 * [❓ FAQs](technical-and-ecosystem/faqs.md)
-* [Page 1](technical-and-ecosystem/page-1.md)
+
+***
+
+* [Page 1](page-1.md)
+
+## SOCIAL MEDIA
+
+* [Page 2](social-media/page-2.md)
+
+***
+
+* [🥰 Telegram Group](https://t.me/truffleprotocol)
+* [😜 Twitter Official](https://twitter.com/TruffleFinance)
+* [😎 Discord Group](https://discord.com/invite/NWRR6s6rmU)
