@@ -10,6 +10,6 @@ The SAP Auto-Stake feature is a simple yet cutting-edge function called **Buy-Ho
 
 Using a Positive Rebase formula, Truffle makes it possible for token distribution to be paid directly proportional to the epoch rebase rewards, worth 0.0095% every 8 minute epoch period of the total amount of $TRUFFLE tokens held in your wallet. The rebase rewards are distributed on each EPOCH (8 minute rebase period) to all $TRUFFLE holders.
 
-**This means that without moving their tokens from their wallet, Truffle holders receive an annual compound interest of **<mark style="color:green;">**396,235.4%**</mark>** for Year 1.**
+**This means that without moving their tokens from their wallet, Truffle holders receive an annual compound interest of **<mark style="color:green;">**980,990,50%**</mark>** for Year 1.**
 
 **The interest rebase rate then reduces after the first 12 months.**
