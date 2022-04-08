@@ -1,7 +1,5 @@
 ---
 description: Official Whitepaper of Truffle Finance
-cover: .gitbook/assets/ovewrviw.PNG
-coverY: 46.38179148311307
 ---
 
 # 📌 Truffle Finance Overview
@@ -40,3 +38,5 @@ Truffle Finance is a company focused on DeFi innovation that creates benefits an
 The WFAP uses a complex set of factors to support its price and the rebase rewards. It includes the **Risk Insurance Fund (RIF)** which serves as an insurance fund to achieve price stability and longterm sustainability of the Truffle  Protocol by maintaining a consistent **0.0000858% rebase rate** paid to all $TRUFFLE token holders per block (every 3 seconds).&#x20;
 
 The Truffle  Finance development team has coordinated all of these elements together so they work seamlessly behind the scenes. The result is a simple and elegant staking and rewards system for $TRUFFLE holders. &#x20;
+
+![](.gitbook/assets/ovwweew.PNG)
