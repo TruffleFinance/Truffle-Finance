@@ -1,8 +1,8 @@
 ---
-description: LIC
+description: LIM
 ---
 
-# 💲 Longterm Interest Cycle (LIC)
+# 💲 Longterm Interest Mechanism (LIM)
 
 In order to maintain sustainability and future growth, we have introduced a Longterm Interest Mechanism (LIM) component which will award $TRUFFLE token holders with continued compound interest in perpetuity.
 

@@ -1,7 +1,5 @@
 ---
 description: $TRUFFLE Token
-cover: broken-reference
-coverY: 7.746287128712874
 ---
 
 # 🪙 TRUFFLE Token
@@ -30,3 +28,5 @@ We also have several proprietary mechanisms in place that we have created oursel
 as well as safeguards in place which secure against malicious hack attempts.&#x20;
 
 $TRUFFLE tokenomics are also completely unique with our Auto-Burn Bonfire structure, small starting supply, highest APY **$980.990,50%**, and fastest 3 second EPOCH for a much more linear APY progression of attainability.
+
+![](../.gitbook/assets/TOKENOMIC.PNG)

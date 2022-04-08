@@ -25,27 +25,27 @@ description: Priority Checklist
 * [ ] YouTube Influencers Marketing
 * [ ] Voice AMA Tour
 * [ ] Partnerships with celebrities, KOL, organizations
-* [ ] WSF Bank & Referral Program Launched
+* [ ] TRUFFLE Bank & Referral Program Launched
 * [ ] Certik Audit Application
 * [ ] Airdrop Campaign
 * [ ] 5,000 Token Holders
 * [ ] 10,000 Token Holders
-* [ ] WallStreet NFT Marketplace
+* [ ] TRUFFLE NFT Marketplace
 * [ ] 20,000 Token Holders
-* [ ] WallStreet Social Game First Look
-* [ ] WallStreet Bond
-* [ ] Manage the economy in WallStreet Social Game
-* [ ] 10,000 users on Social WallStreet Game
-* [ ] 20,000 users on Social WallStreet Game
+* [ ] TRUFFLE Social Game First Look
+* [ ] TRUFFLE Bond
+* [ ] Manage the economy in TRUFFLE Social Game
+* [ ] 10,000 users on Social TRUFFLE Game
+* [ ] 20,000 users on Social TRUFFLE Game
 * [ ] Cross-Chain Bridge: Polygon
 * [ ] 500 Million Market Cap
-* [ ] WallStreet DAO Platform
+* [ ] TRUFFLE DAO Platform
 * [ ] Build Phase - dApp v2 Dashboard
 * [ ] Deployment Phase - dApp v2 Dashboard
 * [ ] More Partnerships
 * [ ] Merchandising
 * [ ] Expand Core Team
-* [ ] More Developers to fulfill requests of Investors in WallStreet Social Game
+* [ ] More Developers to fulfill requests of Investors in TRUFFLE Social Game
 * [ ] Launch Alpha Version of Mobile Application of Android & iOS
 
 **YEAR 2023**
