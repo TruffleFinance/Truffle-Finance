@@ -4,7 +4,7 @@ description: Auto-Staking
 
 # ⚙ How Does Auto-Staking Work?
 
-The WFAP Auto-Stake feature is a simple yet cutting-edge function called **Buy-Hold-Earn**, that provides the ultimate ease of use for $TRUFFLE holders.
+The Truffle Auto-Stake feature is a simple yet cutting-edge function called **Buy-Hold-Earn**, that provides the ultimate ease of use for $TRUFFLE holders.
 
 **Buy-Hold-Earn** - By simply buying and holding $TRUFFLE token in your wallet, you earn rebase rewards as interest payments directly into your wallet. Your tokens will increase <mark style="color:green;"><mark style="color:green;">**every**<mark style="color:green;"></mark><mark style="color:green;">** **</mark><mark style="color:green;">**3 seconds**</mark><mark style="color:green;"><mark style="color:green;">.<mark style="color:green;"></mark>
 

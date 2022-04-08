@@ -6,7 +6,7 @@ description: Truffle Finance's Risk Insurance Fund (RIF)
 
 
 
-**RIF** is the acronym for the Risk Insurance Fund which is a separate wallet in **WFAP** system. The RIF uses an algorithm that backs the Rebase Rewards and is supported by a portion of the buy and sell trading fees that accrue in the RIF wallet. &#x20;
+**RIF** is the acronym for the Risk Insurance Fund which is a separate wallet in **Truffle** system. The RIF uses an algorithm that backs the Rebase Rewards and is supported by a portion of the buy and sell trading fees that accrue in the RIF wallet. &#x20;
 
 In simple terms, the staking rewards (rebase rewards) which are distributed every 3 seconds at a rate of **0.0000858%** are backed by the RIF parameter, thus ensuring a high and stable interest rate to $TRUFFLE token holders.&#x20;
 
