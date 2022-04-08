@@ -22,3 +22,7 @@
 ## TECHNICAL & ECOSYSTEM
 
 * [🌅 TRUFFLE NFT Collection](technical-and-ecosystem/truffle-nft-collection.md)
+* [🤑 Reward For NFT Holders](technical-and-ecosystem/reward-for-nft-holders.md)
+* [🏙 TRUFFLE Social Game](technical-and-ecosystem/truffle-social-game.md)
+* [🏫 TRUFFLE Bank](technical-and-ecosystem/truffle-bank.md)
+* [Page 1](technical-and-ecosystem/page-1.md)

@@ -1,7 +1,7 @@
 ---
 description: Official Whitepaper of Truffle Finance
 cover: .gitbook/assets/ovewrviw.PNG
-coverY: 70.25477239353891
+coverY: 46.38179148311307
 ---
 
 # 📌 Truffle Finance Overview
