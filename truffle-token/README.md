@@ -29,4 +29,4 @@ as well as safeguards in place which secure against malicious hack attempts.&#x2
 
 $TRUFFLE tokenomics are also completely unique with our Auto-Burn Bonfire structure, small starting supply, highest APY **$980.990,50%**, and fastest 3 second EPOCH for a much more linear APY progression of attainability.
 
-![](../.gitbook/assets/TOKENOMIC.PNG)
+![](<../.gitbook/assets/FINAL 2.PNG>)
