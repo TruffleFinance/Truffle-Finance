@@ -27,7 +27,7 @@ The more BNB we have, the more new tokens we get. By selling new tokens, Truffle
 Employing the use of protocol owned liquidity (POL) in combination with the underlying mechanics of TRUFFLE is a key distinction that enables Truffle Finance to generate an additional revenue stream\
 &#x20;(Pancakeswap give 0.25% of each transaction for Liquidity providers)  allowing it to deliver additional added value and increased APY to its token holders.
 
-### **4. Slippage: 13% Buy and 17% sell fees**
+### **4. Slippage: 14% Buy and 16% sell fees**
 
 The protocol takes a portion of the trading fees (buying and selling) and utilizes these to further sustain and back the protocol and its liquidity.
 
