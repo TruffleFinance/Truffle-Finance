@@ -18,7 +18,7 @@ Fair Launch Link On Pink Sale:&#x20;
 
 ## What is the benefits of early investors in Fair Launch?
 
-* No buy tax (13%) if you buy in fair launch
+* No buy tax (14%) if you buy in fair launch
 * Airdrop NFT contest for top fair launch buyers. Details:&#x20;
 
 **NFT Airdrop For Fair Launch Contributors:**
@@ -44,9 +44,9 @@ Listing on Pancakeswap will trigger our **Bullrun Campaign** which included:
 
 ## Tax and Slippage?
 
-13% Buy Tax&#x20;
+14% Buy Tax&#x20;
 
-17% Sell Tax
+16% Sell Tax
 
 ## Is it launched?
 

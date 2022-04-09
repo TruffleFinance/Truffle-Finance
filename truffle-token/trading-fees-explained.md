@@ -2,14 +2,14 @@
 
 <mark style="color:green;">****</mark>
 
-<mark style="color:green;">**Buy Fees: 13%**</mark>
+<mark style="color:green;">**Buy Fees: 14%**</mark>
 
 * Liquidity Pool: 4%
 * Risk Insurance Fund (RIF): 6%
 * TRUFFLE Bank: 2%
 * The Bonfire: 1%
 
-<mark style="color:red;">**Sell Fees: 17%**</mark>
+<mark style="color:red;">**Sell Fees: 16%**</mark>
 
 * Liquidity Pool: 4%
 * Risk Insurance Fund: 6%

@@ -4,7 +4,7 @@ description: $TRUFFLE vs Competitors
 
 # 🏆 Why We Are Better Than Others
 
-![Comparing with Wallstreet Finance, Safuu, we are:](.gitbook/assets/BETTER.PNG)
+![](<.gitbook/assets/final 1.jpg>)
 
 ## The Highest APY💰&#x20;
 
