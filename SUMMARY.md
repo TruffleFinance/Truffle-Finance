@@ -35,7 +35,7 @@
 
 ***
 
-* [🥰 Telegram Group](https://t.me/truffleprotocol)
+* [🥰 Telegram Group](https://t.me/TruffleFinance)
 * [😜 Twitter Official](https://twitter.com/TruffleFinance)
 * [😎 Discord Group](https://discord.com/invite/NWRR6s6rmU)
 * [😆 Site Official](https://www.truffle.finance)
