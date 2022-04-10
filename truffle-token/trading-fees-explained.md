@@ -2,21 +2,22 @@
 
 <mark style="color:green;">****</mark>
 
-<mark style="color:green;">**Buy Fees: 14%**</mark>
+💵Buy FEE 14%
 
-* Liquidity Pool: 4%
-* Risk Insurance Fund (RIF): 6%
-* TRUFFLE Bank: 2%
-* The Bonfire: 1%
+* 🏦 6%Risk Insurance Fund
+* 🍬 2% Truffle Bank
+* 🔥 1% Bonfire
+* ⚡️4% Automatic LP
+* 🏫 1% Treasury
 
-<mark style="color:red;">**Sell Fees: 16%**</mark>
+💵SELL FEE 16%
 
-* Liquidity Pool: 4%
-* Risk Insurance Fund: 6%
-* TRUFFLE Treasury: 2%
-* Reward For NFT Holder: 2%
-* TRUFFLE Bank: 2%
-* The Bonfire: 1%
+* 🏦6%Risk Insurance Fund
+* 🍬2% Truffle Bank
+* 🔥 1% Bonfire
+* 🎨 2% Nfts Owners Rewards
+* ⚡️4% Automatic LP
+* 🏫 1 % Treasury
 
 
 
@@ -25,4 +26,4 @@
 * Liquidity Pool **-** Trading fees go to backing the liquidity of the $TRUFFLE/BNB pair on PancakeSwap ensuring an ever-increasing collateral value of $TRUFFLE. &#x20;
 * TRUFFLE Risk Insurance Fund (RIF)**-** Trading fees are stored in the RIF which helps sustain and back the staking rewards provided by the positive rebase.
 * The TRUFFLE Treasury **-** Trading fees go directly to TRUFFLE Treasury which supports the RIF and provides a marketing budget for $TRUFFLE and funds new product development.
-* The Bonfire **-** 2% of all $TRUFFLE traded are burnt in the bonfire. The more that is traded, the more get put into the hole causing the black hole to grow in size, larger and larger through self-fulfilling auto-compounding which in return acts to reduce the circulating supply of $TRUFFLE and keeps the $TRUFFLE project stable.
+* The Bonfire **-** 1% of all $TRUFFLE traded are burnt in the bonfire. The more that is traded, the more get put into the hole causing the black hole to grow in size, larger and larger through self-fulfilling auto-compounding which in return acts to reduce the circulating supply of $TRUFFLE and keeps the $TRUFFLE project stable.
