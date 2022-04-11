@@ -16,6 +16,7 @@
   * [📎 Truffle Buy and Sell Fees](truffle-token/truffle-buy-and-sell-fees.md)
   * [🖇 Trading Fees Explained](truffle-token/trading-fees-explained.md)
 * [🛣 Roadmap](roadmap.md)
+* [😎 TRUFFLE Fair Launch Sale](truffle-fair-launch-sale.md)
 * [🚀 $Truffle Tokenomics](usdtruffle-tokenomics.md)
 * [👨🏫 The Beauty of Mathematics](the-beauty-of-mathematics.md)
 
